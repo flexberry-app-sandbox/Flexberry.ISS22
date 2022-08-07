@@ -1,0 +1,31 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Форма",
+      "projection": "ФормаL",
+      "detailModelName": null
+    },
+    {
+      "master": "условие",
+      "displayAttributeName": "наименование",
+      "required": true,
+      "relationName": "СписокУсловий.Условие",
+      "projection": "УсловиеL",
+      "detailModelName": "i-i-s-i-s-s22-список-условий"
+    }
+  ],
+  "external": false,
+  "caption": "Вид поддержки",
+  "name": "IISISS22ВидПоддержкиE",
+  "className": "ВидПоддержкиE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-i-s-s22-вид-поддержки",
+      "modelProjection": "ВидПоддержкиE"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+﻿{
+  "applicationCaption": "I s s22",
+  "applicationTitle": "I s s22",
+  "items": [
+    {
+      "link": null,
+      "menuName": "i-s-s22",
+      "caption": "ISS22",
+      "title": "ISS22",
+      "children": [
+        {
+          "link": "i-i-s-i-s-s22-вид-поддержки-l",
+          "menuName": null,
+          "caption": "Вид поддержки",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-i-s-s22-форма-l",
+          "menuName": null,
+          "caption": "Форма",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-i-s-s22-условие-l",
+          "menuName": null,
+          "caption": "Условие",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}
